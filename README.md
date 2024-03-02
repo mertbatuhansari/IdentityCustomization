@@ -15,3 +15,8 @@
 - Microsoft.EntityFrameworkCore.SqlServer
 - Microsoft.EntityFrameworkCore.Tools
 - Microsoft.EntityFrameworkCore.Proxies (LazyLoading)
+
+- ![Diagram](https://github.com/mertbatuhansari/IdentityCustomization/assets/137518339/391b2150-8ab3-441f-bad6-399aff91c35a)
+
+- ![Identity](https://github.com/mertbatuhansari/IdentityCustomization/assets/137518339/ed6a8448-e433-4deb-8505-16da5836ac36)
+
